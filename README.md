@@ -52,9 +52,8 @@ Multi-purpose project (add short description here).
 
 ## 📫 Contact
 
-- Email: **youremail@example.com**  
-- LinkedIn: **[Your LinkedIn](https://www.linkedin.com/in/yourprofile/)**  
-- Portfolio: **[Your Portfolio](https://yourportfolio.com)**  
+- Email: **rahilsk203@gmail.com**  
+
 
 ---
 
