@@ -1,62 +1,72 @@
 # Hi, I'm **Rahil S K** 👋  
-**Full-Stack Developer | JavaScript, Python, PHP, TypeScript | AI Enthusiast**
+### 🚀 *Full-Stack Developer | AI Automation Builder | Open-Source Enthusiast*
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Arsenal
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-4F9C45?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-C13584?style=for-the-badge&logo=vite&logoColor=white)
-![AI](https://img.shields.io/badge/AI-GPT-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8A2BE2?style=for-the-badge&logo=vite&logoColor=white)
+![AI](https://img.shields.io/badge/AI_%2F_Automation-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-512BD4?style=for-the-badge&logo=llama&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🧩 Featured Projects
 
-### EmperorsCafe ☕
-A modern website for a café/restaurant with interactive UI and seamless design.  
-🔗 [Live Demo](https://emperorscafe.pages.dev/)  
+### 🏢 [Eleven Interior](https://www.eleveninterior.in/)
+A professional **interior design company website** featuring dynamic gallery showcases, inquiry forms, and modern UI transitions.
 
-### ElevenInterior 🏢
-Professional interior design company site with gallery showcase and contact forms.  
-🔗 [Live Demo](https://eleveninterior.in)  
+### ☕ [Emperors Café](https://emperorscafe.pages.dev/)
+A **modern café website** built with interactive UI and responsive animations — designed for speed and elegance.
 
-### Multidl 🌐
-Multi-purpose project (add short description here).  
-🔗 [Live Demo](https://multidl.pages.dev/)  
+### 🌐 [MultiDL](https://multidl.pages.dev/)
+A **multi-purpose downloader tool** built for seamless media downloading with clean UI and privacy-focused backend.
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Current Focus
 
-![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahilsk203&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilsk203&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahilsk203&theme=radical)
+- Building **AI-powered automation tools** for developers and businesses  
+- Exploring **LangChain, LlamaIndex, and Groq API** for smart debugging and terminal AI assistants  
+- Developing **full-scale mobile shop management systems** using Flask / FastAPI  
+- Creating **secure Node.js authentication systems (JWT, MySQL, TypeScript)**  
+
+---
+
+## 📊 GitHub Analytics
+
+![Rahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahilsk203&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilsk203&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahilsk203&theme=radical&hide_border=true)
 
 ---
 
 ## 💡 About Me
 
-- Strong in **JavaScript** (frontend & backend)  
-- Passionate about **AI & automation projects**  
-- Exploring new technologies and building innovative solutions  
-- Open for collaboration on **Web Development & AI projects**  
+- 💻 Full-stack developer passionate about **AI + Web automation**  
+- 🔍 Focused on **building scalable backend systems** with security and performance in mind  
+- 🧠 Lifelong learner exploring **AI frameworks & real-world automation**  
+- 🤝 Open to collaboration on **Web, AI, or open-source projects**
 
 ---
 
 ## 📫 Contact
 
-- Email: **rahilsk203@gmail.com**  
-
+- 📧 **rahilsk203@gmail.com**  
+- 🌍 [Portfolio / Projects](https://eleveninterior.in)
 
 ---
 
 ## ✨ Motto
 
-> “Code is my tool, innovation is my goal.”
+> *“Building intelligent systems that connect logic, creativity, and automation.”*
