@@ -1,5 +1,15 @@
-# Hi, I'm **Rahil S K** 👋  
-### 🚀 *Full-Stack Developer | AI Automation Builder | Open-Source Enthusiast*
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=500&lines=Hi%2C+I'm+Rahil+S+K+👋;Full+Stack+Developer;AI+Automation+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+# 💻 About Me
+**Full-Stack Developer | AI Automation Builder | Open-Source Enthusiast**
+
+I’m passionate about crafting **intelligent, automation-driven applications** that merge innovation with functionality.  
+I specialize in full-stack web development, backend systems, and AI-powered automation.
 
 ---
 
@@ -45,18 +55,18 @@ A **multi-purpose downloader tool** built for seamless media downloading with cl
 
 ## 📊 GitHub Analytics
 
-![Rahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahilsk203&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilsk203&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahilsk203&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahilsk203&show_icons=true&theme=radical&hide_border=true" alt="Rahil's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahilsk203&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahilsk203&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 💡 About Me
+## 🌐 Portfolio
 
-- 💻 Full-stack developer passionate about **AI + Web automation**  
-- 🔍 Focused on **building scalable backend systems** with security and performance in mind  
-- 🧠 Lifelong learner exploring **AI frameworks & real-world automation**  
-- 🤝 Open to collaboration on **Web, AI, or open-source projects**
+Check out my personal portfolio website to explore my latest work and projects:  
+👉 **[sksohel.pages.dev](https://sksohel.pages.dev/)**  
 
 ---
 
