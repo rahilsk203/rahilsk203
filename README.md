@@ -1,37 +1,37 @@
 <div align="center">
 
-  <!-- Dynamic Cyber Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00E5FF,50:7B2CBF,100:FF007F&height=260&section=header&text=RAHIL%20S%20K&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Architect%20%7C%20AI%20Automation%20Pioneer%20%7C%20Edge%20Systems&descAlignY=58" width="100%" alt="Header Banner" />
+  <!-- Dynamic Cyber Waving Header (Matrix Emerald Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FF88,40:10B981,100:064E3B&height=260&section=header&text=RAHIL%20S%20K&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Architect%20%7C%20AI%20Automation%20Pioneer%20%7C%20Edge%20Systems&descAlignY=58" width="100%" alt="Header Banner" />
 
-  <!-- Dynamic Neon Typing Header -->
+  <!-- Dynamic Neon Green Typing Header -->
   <a href="https://sksohel.pages.dev/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sohel+(Rahil+S+K)+👋;Full-Stack+Architect+%26+System+Builder+💻;Autonomous+AI+Agents+%26+Automation+🤖;FastAPI%2C+Node.js+%26+Edge+APIs+⚡;Turning+Complex+Logic+Into+Elegant+Code+🚀" alt="Typing SVG Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sohel+(Rahil+S+K)+👋;Full-Stack+Architect+%26+System+Builder+💻;Autonomous+AI+Agents+%26+Automation+🤖;FastAPI%2C+Node.js+%26+Edge+APIs+⚡;Turning+Complex+Logic+Into+Elegant+Code+🚀" alt="Typing SVG Subtitle" />
   </a>
 
   <br/>
 
-  <!-- System HUD Status Bar -->
+  <!-- System HUD Status Bar (Cyber Green) -->
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-SYSTEMS_OPERATIONAL-00E5FF?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status" />
-    <img src="https://img.shields.io/badge/ENERGY-100%25_CAFFEINE-FF007F?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Energy" />
-    <img src="https://img.shields.io/badge/FOCUS-AUTONOMOUS_AI_AGENTS-7B2CBF?style=for-the-badge&logo=probot&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/STATUS-SYSTEMS_OPERATIONAL-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status" />
+    <img src="https://img.shields.io/badge/ENERGY-100%25_CAFFEINE-10B981?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Energy" />
+    <img src="https://img.shields.io/badge/FOCUS-AUTONOMOUS_AI_AGENTS-064E3B?style=for-the-badge&logo=probot&logoColor=00FF88" alt="Focus" />
   </p>
 
   <!-- Live Quick Action Badges -->
   <p align="center">
     <a href="https://sksohel.pages.dev/">
-      <img src="https://img.shields.io/badge/Portfolio-sksohel.pages.dev-00E5FF?style=flat-square&logo=google-chrome&logoColor=black" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-sksohel.pages.dev-00FF88?style=flat-square&logo=google-chrome&logoColor=black" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="mailto:rahilsk203@gmail.com">
-      <img src="https://img.shields.io/badge/Email-rahilsk203%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-rahilsk203%40gmail.com-10B981?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://github.com/rahilsk203">
-      <img src="https://img.shields.io/github/followers/rahilsk203?label=Followers&style=flat-square&color=24292e&logo=github" alt="GitHub Followers" />
+      <img src="https://img.shields.io/github/followers/rahilsk203?label=Followers&style=flat-square&color=064E3B&logo=github&logoColor=00FF88" alt="GitHub Followers" />
     </a>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=rahilsk203&label=Telemetry%20Views&color=00e5ff&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=rahilsk203&label=Telemetry%20Views&color=00ff88&style=flat-square" alt="Profile Views" />
   </p>
 
 </div>
@@ -43,14 +43,14 @@
 ```text
  ╭─────────────────────────────────────────────────────────────────────────────╮
  │  ███████╗ ██████╗ ██╗  ██╗███████╗██╗                                       │
- │  ██╔════╝██╔═══██╗██║  ██║██╔════╝██║    Identity : Rahil S K (Sohel)       │
+ │  ██╔════╝██╔═══██╗██║  ██║██╔════╝██║    Identity : Rahil S K (Sohel) 🟢    │
  │  ███████╗██║   ██║███████║█████╗  ██║    Role     : Full-Stack & AI Builder │
  │  ╚════██║██║   ██║██╔══██║██╔══╝  ██║    Kernel   : Edge-Native v2.0        │
- │  ███████║╚██████╔╝██║  ██║███████╗███████Host     : Cloudflare & Vercel     │
+ │  ███████║╚██████╔╝██║  ██║███████╗███████Host     : Cloudflare & Vercel Edge│
  │  ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════Uptime   : 24/7 (Building Mode)    │
  │                                          Location : Earth (Remote)          │
  │  Core Stack : Python • TypeScript • Node.js • FastAPI • Cloudflare Workers  │
- │  Objective  : Engineering autonomous AI tools & high-throughput web systems │
+ │  Directive  : Zero-Latency Systems • Autonomous AI Agents • Clean Architect │
  ╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>⚡ 01 // Zero-Bloat Performance</h4>
+      <h4>🟢 01 // Zero-Bloat Performance</h4>
       <p>Code engineered for sub-50ms execution. Minimizing dependency bloat, optimizing memory footprints, and prioritizing edge computation.</p>
     </td>
     <td width="50%">
@@ -114,7 +114,7 @@
       </p>
       <p align="center">
         <a href="https://www.eleveninterior.in/">
-          <img src="https://img.shields.io/badge/Launch_Platform-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Live Website" />
+          <img src="https://img.shields.io/badge/Launch_Platform-00FF88?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Live Website" />
         </a>
       </p>
     </td>
@@ -128,7 +128,7 @@
       </p>
       <p align="center">
         <a href="https://emperorscafe.pages.dev/">
-          <img src="https://img.shields.io/badge/Explore_Café-FF007F?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Explore_Café-10B981?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo" />
         </a>
       </p>
     </td>
@@ -144,7 +144,7 @@
       </p>
       <p align="center">
         <a href="https://multidl.pages.dev/">
-          <img src="https://img.shields.io/badge/Launch_Engine-47A248?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Tool" />
+          <img src="https://img.shields.io/badge/Launch_Engine-059669?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Tool" />
         </a>
       </p>
     </td>
@@ -158,7 +158,7 @@
       </p>
       <p align="center">
         <a href="https://sksohel.pages.dev/">
-          <img src="https://img.shields.io/badge/Enter_Nexus-7B2CBF?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit Portfolio" />
+          <img src="https://img.shields.io/badge/Enter_Nexus-00FF88?style=for-the-badge&logo=firefox&logoColor=black" alt="Visit Portfolio" />
         </a>
       </p>
     </td>
@@ -176,9 +176,9 @@
   
   <br/><br/>
 
-  <!-- Streak Stats & Languages Matrix -->
+  <!-- Streak Stats & Languages Matrix (Cyber Neon Green Flame & Ring) -->
   <p align="center">
-    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=rahilsk203&theme=radical&hide_border=true&sideNums=00E5FF&sideLabels=ECEFF4&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&background=141321" alt="GitHub Streak" />
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=rahilsk203&theme=dark&hide_border=true&sideNums=00FF88&sideLabels=A7F3D0&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&background=141321" alt="GitHub Streak" />
     &nbsp;
     <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahilsk203&theme=2077" alt="Top Languages by Repo" />
   </p>
@@ -201,7 +201,8 @@
 {
   "developer": "Rahil S K (Sohel)",
   "status": "Online & Shipping Code",
-  "ide": "Antigravity IDE / VS Code [Cyberpunk Theme]",
+  "theme": "Cyber Emerald Matrix",
+  "ide": "Antigravity IDE / VS Code [Matrix Green]",
   "shell": "PowerShell 7 / Zsh [Oh-My-Posh]",
   "operating_systems": ["Linux (Arch/Ubuntu)", "Windows 11 Pro"],
   "daily_fuel": "3x Dark Roast Espresso ☕",
@@ -236,23 +237,23 @@
 
   <p align="center">
     <a href="mailto:rahilsk203@gmail.com">
-      <img src="https://img.shields.io/badge/Direct_Email-rahilsk203%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Direct_Email-rahilsk203%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://sksohel.pages.dev/">
-      <img src="https://img.shields.io/badge/Personal_Portfolio-sksohel.pages.dev-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Personal_Portfolio-sksohel.pages.dev-00FF88?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="https://github.com/rahilsk203">
-      <img src="https://img.shields.io/badge/GitHub_Profile-rahilsk203-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub_Profile-rahilsk203-064E3B?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub" />
     </a>
   </p>
 
   <br/>
 
-  <!-- Dynamic Waving Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF007F,50:7B2CBF,100:00E5FF&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <!-- Dynamic Waving Footer (Emerald to Neon Green) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:064E3B,50:10B981,100:00FF88&height=120&section=footer" width="100%" alt="Footer Banner" />
 
-  <sub>Architected with ❤️ by <b>Rahil S K (Sohel)</b> • <i>Continuous Innovation Through Code</i></sub>
+  <sub>Architected with 💚 by <b>Rahil S K (Sohel)</b> • <i>Continuous Innovation Through Code</i></sub>
 
 </div>
