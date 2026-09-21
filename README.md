@@ -131,21 +131,13 @@ current_focus: Building autonomous AI developer tools & robust API platforms
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahilsk203&show_icons=true&theme=radical&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=ECEFF4&bg_color=0d1117" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahilsk203&theme=radical&hide_border=true&sideNums=00E5FF&sideLabels=ECEFF4&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&background=0d1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahilsk203&layout=compact&theme=radical&hide_border=true&title_color=00E5FF&text_color=ECEFF4&bg_color=0d1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahilsk203&theme=2077" alt="GitHub Profile Details & Contributions" />
+  <br/>
+  <p align="center">
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=rahilsk203&theme=radical&hide_border=true&sideNums=00E5FF&sideLabels=ECEFF4&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&background=141321" alt="GitHub Streak" />
+    &nbsp;
+    <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahilsk203&theme=2077" alt="Top Languages by Repo" />
+  </p>
 </div>
 
 ---
